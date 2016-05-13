@@ -1,0 +1,14 @@
+d:\AutoTraining\RomanCommander\RomanCommander\bin\Debug\RomanCommander.exe.config
+d:\AutoTraining\RomanCommander\RomanCommander\bin\Debug\RomanCommander.exe
+d:\AutoTraining\RomanCommander\RomanCommander\bin\Debug\RomanCommander.pdb
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.Properties.Resources.resources
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.csproj.GenerateResource.Cache
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.exe
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.pdb
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.MainForm.resources
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.View.NavigationPanel.resources
+d:\AutoTraining\RomanCommander\RomanCommander\bin\Debug\RomanCommander.exe.manifest
+d:\AutoTraining\RomanCommander\RomanCommander\bin\Debug\RomanCommander.application
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.exe.manifest
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.application
+d:\AutoTraining\RomanCommander\RomanCommander\obj\Debug\RomanCommander.csprojResolveAssemblyReference.cache
